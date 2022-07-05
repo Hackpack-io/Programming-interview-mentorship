@@ -9,8 +9,6 @@ As anyone who has ever gone through a programming interview knows, they can be i
 
 That's why I'm excited to intro Hackpack as an affordable programming interview community with vetted mentors baked in. We know what it takes to succeed in a coding interview. We'll work with you to help you build the critical skills (Data Structures and Algorithms, System Design, Behavioral) and build your confidence so that you can go into your interview with the best possible chance of success. 
 
-Checkout our website to learn more about how we can help you ace your next programming interview.
-
 
 Checkout some of the resources our community has put together:
 * [Mastering Programming interview concepts](https://www.hackpack.io/blog/master-programming-interview-concepts)
