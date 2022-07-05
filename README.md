@@ -1,4 +1,7 @@
-# Programming-interview-mentorship
+# Programming interview mentorship
+
+<img src="https://user-images.githubusercontent.com/8617779/177379957-f9a9ecf3-efee-4215-9f64-47dcfb38b846.png" height="100px"/>
+
 Affordable coding interview preparation from FAANG engineers
 
 
@@ -15,4 +18,4 @@ Checkout some of the resources our community has put together:
 * [Self Assessment Form](https://docs.google.com/spreadsheets/d/1pnwnNxxABHpGGQB7YjMfK3OWWAa3bV5Xg1SrDh0u7Wk/edit#gid=0)
 
 
-CHeckout our [blog](https://www.hackpack.io/) for more info!
+Checkout our [blog](https://www.hackpack.io/) for more info!
